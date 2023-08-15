@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Gun/gun_lambert1_BaseColor.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Gun/gun_lambert1_Metallic.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Gun/gun_lambert1_Normal.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Gun/gun_lambert1_Roughness.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Models/M_Gun.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Models/M_Wall.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Models/M_WallGrid.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Models/MICROGun_pPlane1.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Models/MICROWallDone_pCube1.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Models/MICROWallDone_pPlane1.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Wall/wallAroundGrid_lambert1_BaseColor.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Wall/wallAroundGrid_lambert1_Normal.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Wall/wallAroundGrid_lambert1_Roughness.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Wall/BCA_Grid.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HX/0NAZ7RR004ZISEAR55SKMJ.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YI/ZNHF6I3BN9U1BMH0HATN4G.uasset",
+				"C:/Users/michelle.fischer/Documents/Unreal Projects/MicroShooter/Content/Textures/Wall/OPAC_Grid.uasset"
+			]
+		}
+	]
+}
